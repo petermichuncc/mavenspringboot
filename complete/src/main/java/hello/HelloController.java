@@ -2,7 +2,11 @@ package hello;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
+/*
+The main controller for the program.
+Add additional classes to test this out.
 
+*/
 @RestController
 public class HelloController {
     
