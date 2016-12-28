@@ -1,5 +1,5 @@
 package hello;
-
+/* Work on learning Maven and trying out this framework */
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
 
